@@ -1,4 +1,4 @@
-EyeFi multi server card
+EyeFi server (multi card)
 ========================
 
 Scripts were forked from https://github.com/tachang/EyeFiServer
